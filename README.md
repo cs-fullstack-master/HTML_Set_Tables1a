@@ -4,4 +4,4 @@
 Create the table in Example1.png. PUSH ONCE COMPLETE.
 
 ### Example 2
-Create a table for YouTube videos. Create 4 columns: the YouTube video, channel name, video name (with a link to the video), and the date it was uploaded. PUSH ONCE COMPLETE.
+Create a table for 3 YouTube videos. Create 4 columns: the YouTube video, channel name, video name (with a link to the video), and the date it was uploaded. PUSH ONCE COMPLETE.
